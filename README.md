@@ -11,3 +11,6 @@ C C++ C# Java Python Flask HTML CSS JS Bootstrap Tailwindcss ES6 Kotlin MySql Ma
 [![Alfan's trophy](https://github-profile-trophy.vercel.app/?username=AlfandaviAU&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 yea i know its just smol account, looking forward for out elaboration!
+
+## Work & Interns
+Nov 2021 - May 2022 @Finku.id

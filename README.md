@@ -1,6 +1,10 @@
 ## 🐱‍🚀 Intro
 Muhammad Alfandavi Aryo Utomo ( Alfan ) undergraduate informatics engineering at ITB. <br>
-Enthusiast in Fullstack webdev & designer, mobile app dev, and UI/UX design 
+Enthusiast in Fullstack webdev & designer, mobile app dev, and UI/UX design  <br>
+
+## Experience
+1. Intern @Finku Frontend Mobile Dev ( React Native ) 2021
+2. Intern @Paragon IT Solution and Delivery ( Frontend ) 2022
 
 ## 👨‍🚀 Skills
 C C++ C# Java Python Flask HTML CSS JS Bootstrap Tailwindcss ES6 Kotlin MySql MariaDB
